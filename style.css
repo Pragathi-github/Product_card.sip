@@ -16,8 +16,8 @@ body {
 
 .card {
   position: relative;
-  width: 320px;
-  height: 480px;
+  width: 440px;
+  height: 580px;
   background: #191919;
   border-radius: 20px;
   overflow: hidden;
@@ -81,6 +81,12 @@ body {
   font-size: 24px;
   color: white;
   font-weight: 700;
+  letter-spacing: 1px;
+}
+.card .contentBox ul{
+  font size: 18px;
+  color: rgb(135, 206, 235);
+  font-weight:700;
   letter-spacing: 1px;
 }
 
